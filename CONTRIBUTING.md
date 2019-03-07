@@ -2,7 +2,7 @@
 Last updated: 7 March, 2019
 
 ## Preamble
-Contributions to this project are always welcome and ecouraged.
+Contributions to this project are always welcome and appreciated!
 
 So that we are all on the same page, here are the main goals that I have for this project:
 
@@ -13,7 +13,13 @@ So that we are all on the same page, here are the main goals that I have for thi
 ### Index
 - [Contribution Guidelines](#contribution-guidelines)
 	- [Minimalism](#minimalism)
+	- [Commenting & Documentation](#comments-&-documentation)
+	- [Single Responsibility Principle](#single-responsibility-principle) (but for your whole contribution)
 - [Contribution Formatting](#contribution-formatting)
+	- [Getting your contribution added to the main README.md]()
+	- [Starter Project Repo](#starter-project-repo)
+	- [Formatting Existing or New Projects](#formatting-existing-or-new-projects)
+	- [Directory Structure](#directory-structure)
 
 ## Contribution Guidelines
 
@@ -24,7 +30,7 @@ Given these goals, here are some rules to guide us and keep us focused.
 	- We all know that there are multiple methods to do *almost* everything in programming, however, *most* of those possible methods are going to be less-than minimalistic.
 	- For the purposes of this project, let us challenge ourselves to avoid methods of implementation that are not *arguably* minimalistic, given the context and goals of that implementation.
 
-### Comments
+### Comments & Documentation
 - Pursue descriptive self-documentation over verbose explanations
 - Value clarity over character minimization
 - To that end:
@@ -34,7 +40,8 @@ Given these goals, here are some rules to guide us and keep us focused.
 
 Ideally, your comments move us through the classes with a continuous explanation, one comment at a time. Additional explanation should be passively available in the variable/function/class etc. naming decisons you made. This is helpful to beginners and those who are new to your code.
 
-### Single Responsibility Principle [(SRP)](https://en.wikipedia.org/wiki/Single_responsibility_principle)-- applied to your whole project
+### Single Responsibility Principle 
+Think [(SRP)](https://en.wikipedia.org/wiki/Single_responsibility_principle)-- But applied to your whole project
 
 1. Contributed projects only demonstrate how to do *exactly* one thing
 - That thing is self-described in the project name
@@ -43,12 +50,19 @@ Ideally, your comments move us through the classes with a continuous explanation
 ## Contribution Formatting
 
 ### Get your contribution added to the main README.md
+- The README.md for this repo is built automatically from contributions.
+- In order for me to automate the upkeep of the main README.md, every contribution must include the 
 
-#### Automatic: [Starter Repo Example]()
+#### Starter Project Repo
+Do it the easy way, with this pre-formatted starter project
+
 - Clone the master branch [example]() to start out with everything you need
+- Make sure to take a look at the provided README.md's markup source. There is a metadata tag in there that you will need to customize in order to be incorporated into this project.
 
 
-#### Manual: Format Your Existing Project
+#### Formatting Existing or New Projects
+
+##### Mandatory Fields
 - In order for me to automate the upkeep of the main README.md, every contribution **must** include metadata in this EXACT format.
 
 ```
