@@ -44,8 +44,8 @@ Ideally, your comments move us through the classes with a continuous explanation
 Think [(SRP)](https://en.wikipedia.org/wiki/Single_responsibility_principle)-- But applied to your whole project
 
 1. Contributed projects only demonstrate how to do *exactly* one thing
-- That thing is self-described in the project name
-- Necessary intermediate steps do not count as a second thing, but you should already be explaining your process your comments
+2. That thing is self-described in the project name
+3. Necessary intermediate steps do not count as a second thing, but you should be explaining your process your comments
 
 ## Contribution Formatting
 
@@ -57,13 +57,13 @@ Think [(SRP)](https://en.wikipedia.org/wiki/Single_responsibility_principle)-- B
 Do it the easy way, with this pre-formatted starter project
 
 - Clone the master branch [example]() to start out with everything you need
-- Make sure to take a look at the provided README.md's markup source. There is a metadata tag in there that you will need to customize in order to be incorporated into this project.
+- Make sure to take a look at the RAW provided README.md's markup source. There is a metadata tag in there that you will need to customize in order to be incorporated into this project.
 
 
 #### Formatting Existing or New Projects
 
 ##### Mandatory Fields
-- In order for me to automate the upkeep of the main README.md, every contribution **must** include metadata in this EXACT format.
+- In order for me to automate the upkeep of the main README.md on this repository, every contribution **must** include metadata in this EXACT format somewhere in your README.md.
 
 ```
 <!--
