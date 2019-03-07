@@ -16,7 +16,7 @@ So that we are all on the same page, here are the main goals that I have for thi
 	- [Commenting & Documentation](#comments-&-documentation)
 	- [Single Responsibility Principle](#single-responsibility-principle) (but for your whole contribution)
 - [Contribution Formatting](#contribution-formatting)
-	- [Getting your contribution added to the main README.md]()
+	- [Getting your contribution added to the main README.md](#get-your-contribution-added-to-the-main-readme.md)
 	- [Starter Project Repo](#starter-project-repo)
 	- [Formatting Existing or New Projects](#formatting-existing-or-new-projects)
 	- [Directory Structure](#directory-structure)
