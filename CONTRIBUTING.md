@@ -44,7 +44,7 @@ root
 │   README.md   
 │
 └─── projectname
-   │   projectname.xcproj /.xcworkspace (etc.)
+   │   projectname.xcproj /.xcworkspace / .playground (etc.)
    │   (other files)
 ```
 
