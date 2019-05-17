@@ -16,11 +16,7 @@ So that we are all on the same page, here are the main goals that I have for thi
 	- [Commenting & Documentation](#comments-&-documentation)
 	- [Single Responsibility Principle](#single-responsibility-principle) (but for your whole contribution)
 - [Contribution Formatting](#contribution-formatting)
-<<<<<<< HEAD
-	- [Getting your contribution added to the main README.md]()
-=======
 	- [Getting your contribution added to the main README.md](#get-your-contribution-added-to-the-main-readme.md)
->>>>>>> f9ebb2db69cc537e0a44958e4968e4155759066d
 	- [Starter Project Repo](#starter-project-repo)
 	- [Formatting Existing or New Projects](#formatting-existing-or-new-projects)
 	- [Directory Structure](#directory-structure)
@@ -48,13 +44,8 @@ Ideally, your comments move us through the classes with a continuous explanation
 Think [(SRP)](https://en.wikipedia.org/wiki/Single_responsibility_principle)-- But applied to your whole project
 
 1. Contributed projects only demonstrate how to do *exactly* one thing
-<<<<<<< HEAD
-- That thing is self-described in the project name
-- Necessary intermediate steps do not count as a second thing, but you should already be explaining your process your comments
-=======
 2. That thing is self-described in the project name
 3. Necessary intermediate steps do not count as a second thing, but you should be explaining your process your comments
->>>>>>> f9ebb2db69cc537e0a44958e4968e4155759066d
 
 ## Contribution Formatting
 
@@ -76,11 +67,8 @@ Do it the easy way, with this pre-formatted starter project
 #### Formatting Existing or New Projects
 
 ##### Mandatory Fields
-<<<<<<< HEAD
-- In order for me to automate the upkeep of the main README.md, every contribution **must** include metadata in this EXACT format.
-=======
-- In order for me to automate the upkeep of the main README.md on this repository, every contribution **must** include metadata in this EXACT format somewhere in your README.md.
->>>>>>> f9ebb2db69cc537e0a44958e4968e4155759066d
+
+- In order for me to automate the upkeep of the main README.md on this repository, every contribution **must** include metadata in this EXACT format somewhere in your README.md. 
 
 ```
 <!--
