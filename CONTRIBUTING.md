@@ -57,11 +57,7 @@ Think [(SRP)](https://en.wikipedia.org/wiki/Single_responsibility_principle)-- B
 Do it the easy way, with this pre-formatted starter project
 
 - Clone the master branch [example]() to start out with everything you need
-<<<<<<< HEAD
-- Make sure to take a look at the provided README.md's markup source. There is a metadata tag in there that you will need to customize in order to be incorporated into this project.
-=======
 - Make sure to take a look at the RAW provided README.md's markup source. There is a metadata tag in there that you will need to customize in order to be incorporated into this project.
->>>>>>> f9ebb2db69cc537e0a44958e4968e4155759066d
 
 
 #### Formatting Existing or New Projects
